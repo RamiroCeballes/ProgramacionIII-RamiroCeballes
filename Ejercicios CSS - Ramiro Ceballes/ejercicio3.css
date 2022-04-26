@@ -1,0 +1,7 @@
+body {background-color:white;}
+p {font-size: 10px; text-align: center;}
+#ParrafoDos {font-size: 11px; text-align: left; color: blue;}
+#estilo1 {font-size: 15px; text-align: left; color: white; background-color: black;}
+.Clase1 {font-style: italic; font-size: 20px; text-align: left;}
+.striped-border {border: .7px dashed #000;}
+#ParrafoCinco {font-size: 40px; color:red; text-align: left;}
