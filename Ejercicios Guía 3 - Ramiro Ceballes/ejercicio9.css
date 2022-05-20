@@ -1,0 +1,7 @@
+td {border-collapse: collapse; border: 0px;}
+#div {background-color: whitesmoke;}
+#div1 {height: 100%; width: 50%; float: left; background-color: cornflowerblue;}
+#div2 {height: 100%; width: 50%; float: right;}
+#celda1 {background-color:pink; }
+#celda2 {background-color: palevioletred; color: white;}
+#celda3 {background-color: white;}
