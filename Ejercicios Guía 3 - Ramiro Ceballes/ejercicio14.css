@@ -1,9 +1,10 @@
 header {width: 100%; height: 50px; background-color:aqua;}
 footer {display: table; width: 100%; height: 80px; background-color: darkmagenta;}
 p {color: white;}
+td {width: 90px; height: 50px; background-color: palevioletred;}
+table {border-spacing: 200px 15px}
 .margen {padding-top: 2px;}
 #div {display: table;}
 #div1 {display: table-cell; background-color:orangered; width: 400px; height: 200px;}
 #div2 {display: table-cell; background-color: green; width: 600px; height: 200px;}
 #div3 {display: table-cell; background-color: yellow; width: 400px; height: 200px;}
-#div4 {display: table-cell; width: 70px; height: 50px; background-color: palevioletred;}
